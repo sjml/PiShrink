@@ -1,3 +1,6 @@
+A fork of PiShrink that works (in theory?) on USB drives instead of SD cards.
+
+---
 
 # PiShrink #
 
